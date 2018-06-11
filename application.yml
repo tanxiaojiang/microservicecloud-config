@@ -1,6 +1,5 @@
 spring:
- profiles:dev   #开发环境
+ profiles:dev  
   application:
     name:microservicecloud-config-atguigu-dev
-
 #请保存为UTF-8格式
